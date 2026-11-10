@@ -57,6 +57,7 @@ Desktop.ini
 # Database Dumps
 # ============================================
 *.sql
+!database/cms_db.sql
 !database/seeds/*.sql
 
 # ============================================
